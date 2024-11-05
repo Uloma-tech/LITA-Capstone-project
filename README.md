@@ -26,4 +26,10 @@ The tools used for this project are :
 - Microsoft Excel for data cleaning, analysis and visualisation
 - Structured Query Language (SQL) for querying of data
 - Power BI for data visualisation
-Github for portfolio building and sharing.
+- Github for portfolio building and sharing.
+
+### Data Cleaning and preparations 
+For the data cleaning,the following were performed 
+1. the salesdata and the customer data were structured by arranged by sorting the products and regions from A-Z
+2. The total sales was also determined by multipling the Quantity by the unit price.
+3. The products were also sorted with the product with the highest revenue.
