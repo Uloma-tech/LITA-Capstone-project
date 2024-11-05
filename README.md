@@ -13,3 +13,9 @@ The primary data source in the provided Excel file, "LITA Capstone Dataset.xlsx,
 ### Quantity: The number of items sold in the order.
 ### UnitPrice: The price per unit of the product.
 ### The dataset provides valuable insights into sales performance and customer demographics for reporting and visualization purposes.
+
+## Tools Used
+The tools used for this project are : Microsoft Excel for data cleaning, analysis and visualisation
+Structured Query Language (SQL) for querying of data
+Power BI for data visualisation
+Github for portfolio building and sharing.
