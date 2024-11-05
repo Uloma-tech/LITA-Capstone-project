@@ -228,4 +228,9 @@ ON
 WHERE 
     s2.Product IS NULL;
 
+### Data Visualisation
+The files below shows the results obtained for Excel, SQL and PowerBI.
+
+
+
 
