@@ -3,7 +3,7 @@
 ### This project explores the sales performance analysis of a retail store.By analysing the various parameters in the data set, we seek to make reasonable decisions to enable the retail store maximise more profits and retain customers loyalty.
 
 ### Data Sources 
-##The primary data source in the provided Excel file, "LITA Capstone Dataset.xlsx," consists of sales data related to customer transactions. The dataset typically includes the following fields:
+The primary data source in the provided Excel file, "LITA Capstone Dataset.xlsx," consists of sales data related to customer transactions. The dataset typically includes the following fields:
 
 ### OrderID: A unique identifier for each order.
 ### Customer Id**: The identifier for each customer.
