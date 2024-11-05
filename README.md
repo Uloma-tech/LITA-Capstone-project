@@ -229,11 +229,11 @@ WHERE
     s2.Product IS NULL;
 
 ### Data Visualisation
-The files uploaded shows the results obtained for Excel, SQL and PowerBI.
+The files uploaded shows the results obtained from Excel, SQL and PowerBI.
 
 Exploring the results from these files, it reveals that the retail store in the South have the highest revenue for the year 2022 - 2023 with the shoes selling better than the other products. The West had the least revenue.
 
-For the product performance analysis shows that the stores are selling more shoes than any other products.
+The product performance analysis shows that the stores are selling more shoes than any other products.
 
 The customers with the basic subscription generates more revenue for the store as they had the highest revenue compared to the premium and standard customers.
 
