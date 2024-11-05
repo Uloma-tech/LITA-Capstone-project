@@ -33,3 +33,11 @@ For the data cleaning,the following were performed
 1. the salesdata and the customer data were structured by arranged by sorting the products and regions from A-Z
 2. The total sales was also determined by multipling the Quantity by the unit price.
 3. The products were also sorted with the product with the highest revenue.
+
+### Exploratory Data Analysis 
+Exploratory data analysis involved exploring the sales and customer data set to determine:
+- Total sales by product 
+- Total sales by region
+- Total sales by month
+- Subscription pattern
+- Most popular subscription type
