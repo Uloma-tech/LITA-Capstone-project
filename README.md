@@ -47,11 +47,6 @@ In the data analysis using SQL the following codes were used:
 
 *SALES DATA*
 
-Create database uloma_project
-
-USE uloma_project;
-
--- Peruse the data
 SELECT * FROM sales_data;
 
 -- 1.retrieve the total sales for each product category.
@@ -141,9 +136,6 @@ GROUP BY
 
 *CUSTOMER DATA*
 
-USE uloma_project;
-
--- Peruse the data
 SELECT * FROM customer_data;
 
 -- 1.retrieve the total number of customers from each region.
