@@ -30,9 +30,9 @@ The tools used for this project are :
 
 ### Data Cleaning and preparations 
 For the data cleaning,the following were performed 
-1. the salesdata and the customer data were structured by arranged by sorting the products and regions from A-Z
+1. The salesdata and the customer data were structured by arranging  and sorting the products and regions from A-Z
 2. The total sales was also determined by multipling the Quantity by the unit price.
-3. The products were also sorted with the product with the highest revenue.
+3. The products were also sorted with the product with the highest revenue coming top
 
 ### Exploratory Data Analysis 
 Exploratory data analysis involved exploring the sales and customer data set to determine:
@@ -43,7 +43,7 @@ Exploratory data analysis involved exploring the sales and customer data set to 
 - Most popular subscription type
 
 ### Data Analysis 
-In the data analysis using SQL the following codes were used:
+In the data analysis using SQL, the following codes were used:
 
 *SALES DATA*
 
